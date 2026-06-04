@@ -14,19 +14,21 @@
 
 # 1. Team Identity
 
-## 1.1 Team Name and Photo
-
+## 1.1 MintyJamun
+<p align="center">
+  <img src="Minty_jamun.png" width="400">
+</p>
 ---
 
 ## 1.2 Team Members
 
-| Name | Role | Skills |
-| ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+### Team Members
 
----
+| Name | Role | Year | Branch | Skills |
+|:-----|:-----|:-----|:--------|:--------|
+| Shanchita Chauhan | Documentation, Research & Development | F.E. | AURO | ESP32 Programming, Arduino Development, CAD Modeling, Circuit Design, Wokwi Simulation,Sensor Fusion |
+| Adi Kalra | Documentation, Design & Research | S.E. | EXTC | CAD Design, Embedded Systems, KiCad PCB Design |
+| Adarsh Gupta | Team Lead, Documentation, Product Design & Prototyping | S.E. | AURO | CAD Modeling, Prototyping, Electronics Integration, Embedded System |
 
 # 2. Problem Discovery
 
