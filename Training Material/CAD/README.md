@@ -36,6 +36,12 @@ During our training and practice sessions, we explored:
 
 The included laser cutter design files and images were created as part of our digital fabrication training. These exercises helped us understand design preparation, machine workflows, file formats, and manufacturing constraints involved in laser cutting processes.
 
+
+<img src="images/lasercad.png" width="400">
+
+Designed and fabricated by Shanchita Chauhan.
+
+
 ## Purpose
 
 This folder serves as a record of our practice work, experimentation, and skill development in CAD modeling, digital fabrication, and rapid prototyping.
