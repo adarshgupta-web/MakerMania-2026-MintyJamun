@@ -12,6 +12,17 @@
 
 ---
 
+
+## 🔨 Knocking Hammer
+
+**Protect Your Knuckles. Knock with Confidence.**
+
+The Knocking Hammer is a simple ergonomic tool designed to help users knock on doors without directly impacting their knuckles, reducing discomfort while providing a consistent knocking experience.
+
+🎥 Demo Video: https://youtube.com/shorts/bD19YGxGuTQ?si=1oJ4QhMyKx1h3Qpc
+
+
+
 # 1. Team Identity
 
 ## 1.1 MintyJamun
