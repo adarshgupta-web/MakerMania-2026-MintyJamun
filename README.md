@@ -20,6 +20,7 @@
 The Knocking Hammer is a simple ergonomic tool designed to help users knock on doors without directly impacting their knuckles, reducing discomfort while providing a consistent knocking experience.
 
 🎥 Demo Video: https://youtube.com/shorts/bD19YGxGuTQ?si=1oJ4QhMyKx1h3Qpc
+
 📂 DOCUMENTATION: https://github.com/adarshgupta-web/MakerMania-2026-MintyJamun/tree/main/USELESS_PRODUCT
 
 
