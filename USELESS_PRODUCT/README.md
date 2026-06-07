@@ -87,6 +87,7 @@ The product was designed using CAD software and fabricated through 3D printing.
 - Lightweight construction
 
 STL files are available in the **CAD** folder.
+https://github.com/adarshgupta-web/MakerMania-2026-MintyJamun/tree/main/USELESS_PRODUCT/CAD
 
 ---
 
