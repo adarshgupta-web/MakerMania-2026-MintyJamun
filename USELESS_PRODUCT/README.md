@@ -92,7 +92,11 @@ STL files are available in the **CAD** folder.
 
 ## 📸 Prototype Images
 
-Project images are available in the **Images** folder.
+<img src="images/knocking_hammer.png" width="49%" /> <img src="images/knocking_hammer2.png" width="49%" />
+
+
+
+
 
 ---
 
