@@ -65,13 +65,23 @@ Where did you conduct your observations?
 
 What are users doing?
 
+Studying, working, attending online classes, reading, or focusing on tasks.
+Frequently checking their phones during these activities.
+Switching between productive apps and distracting apps (social media, games, short-video platforms).
+Attempting to maintain focus but getting distracted by habitual phone usage.
+
 ### Environment
 
 What conditions affect them?
 
+Presence of phone notifications and easy access to distracting apps.
+Long work or study sessions that lead to reduced concentration.
+Situations where some phone usage is necessary (calls, emails, messages) while distractions should be avoided.
+
 ### Interactions
 
 Who or what are they interacting with?
+
 
 ### Objects
 
@@ -81,14 +91,28 @@ What tools or products are used?
 
 Who are the primary users?
 
+Students preparing for exams or attending classes.
+College students working on assignments and projects.
+Professionals who need to stay focused while working.
+Individuals trying to reduce screen time and social media addiction.
+Anyone seeking better productivity and concentration habits
+
 ---
 
 ## 2.3 Observation Log
 
-| Observation | Evidence | Pain Point |
-| ----------- | -------- | ---------- |
-|             |          |            |
-|             |          |            |
+| Observation                         | Evidence                          | Pain Point                             |
+| -----------                         | --------                          | ----------                             |
+| Users frequently open social media  |During observation/interviews,     | Loss of focus and reduced productivity.|
+|apps while studying or working.      | users reported checking Instagram,|                                        |
+|                                     |YouTube, or WhatsApp repeatedly    |                                        |
+|Existing app blockers are            |Users stated they uninstall        | Current solutions are easy to ignore.  |
+|often disabled or bypassed.          |blockersor ignore notifications.   |                                        |
+|Many users use there phone for both  |Users needs phone for calls,emails,| Complete blocking is impractical.      |
+|productive and distracting tasks.    |notes and study materials  .       |                                        |
+|Users often realize they are         |Users reported just checking for a |Lack of immediate awareness of          |
+|distracted only after spending       |minute and ending up scrolling for |distraction.                            |
+|significant time on an app.          |a much longer time .               |                                        |
 
 ---
 
