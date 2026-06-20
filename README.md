@@ -66,8 +66,11 @@ Where did you conduct your observations?
 What are users doing?
 
 Studying, working, attending online classes, reading, or focusing on tasks.
+
 Frequently checking their phones during these activities.
+
 Switching between productive apps and distracting apps (social media, games, short-video platforms).
+
 Attempting to maintain focus but getting distracted by habitual phone usage.
 
 ### Environment
@@ -75,7 +78,9 @@ Attempting to maintain focus but getting distracted by habitual phone usage.
 What conditions affect them?
 
 Presence of phone notifications and easy access to distracting apps.
+
 Long work or study sessions that lead to reduced concentration.
+
 Situations where some phone usage is necessary (calls, emails, messages) while distractions should be avoided.
 
 ### Interactions
@@ -92,9 +97,13 @@ What tools or products are used?
 Who are the primary users?
 
 Students preparing for exams or attending classes.
+
 College students working on assignments and projects.
+
 Professionals who need to stay focused while working.
+
 Individuals trying to reduce screen time and social media addiction.
+
 Anyone seeking better productivity and concentration habits
 
 ---
