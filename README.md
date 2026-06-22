@@ -49,13 +49,7 @@ The Knocking Hammer is a simple ergonomic tool designed to help users knock on d
 
 Where did you conduct your observations?
 
-* Hostel
-* Canteen
-* Workshop
-* Hospital
-* Public Transport
-* Home
-* Other
+Observations were conducted in hostels, homes, and college study environments where students frequently used smartphones while studying or completing academic tasks. These settings helped identify patterns of digital distraction and excessive social media usage.
 
 ---
 
@@ -126,11 +120,11 @@ Number of users interviewed: ______
 
 ## 3.2 Key Quotes
 
-1.
+1."I only open Instagram for a minute, but I end up scrolling for half an hour."
 
-2.
+2."I need my phone for study materials and calls, so I can't completely block it."
 
-3.
+3."Notifications and app blockers don't really stop me because I can just ignore them."
 
 ---
 
@@ -138,15 +132,31 @@ Number of users interviewed: ______
 
 ### Name
 
-### Age
+### Age 
 
-### Occupation
+### Occupation 
+Student
 
-### Goals
+### Goals 
+
+Stay focused while studying.<br>
+Reduce social media usage.<br>
+Improve productivity and time management.<br>
+Build better digital habits.
 
 ### Frustrations
 
+Constant urge to check social media.<br>
+Losing track of time while scrolling.<br>
+Existing app blockers are easy to bypass.<br>
+Difficulty balancing productive and distracting phone use.
+
 ### Needs
+
+A non-intrusive way to regain focus.<br>
+Real-time reminders when using distracting apps.<br>
+Ability to allow essential apps while restricting distractions.<br>
+A solution that encourages self-control rather than complete blocking.
 
 ---
 
@@ -154,30 +164,34 @@ Number of users interviewed: ______
 
 ## Problem Statement
 
-User __________ needs a way to __________ because __________.
+User Students and young professionals needs a way to stay focused while using their smartphones for productive tasks because distracting applications such as social media, games, and short-form video platforms often lead to loss of concentration and reduced productivity..
 
 ---
 
 ## How Might We Questions
 
-1.
+1.How might we help users recognize when they are getting distracted by their phones?
 
-2.
+2.How might we provide real-time feedback without completely blocking smartphone usage?
 
-3.
+3.How might we encourage users to return to productive tasks when using distracting applications?
+
+4.How might we reduce excessive social media usage through wearable technology?
+
+5.How might we create a focus-assistance system that is difficult to ignore but not intrusive?
 
 ---
 
 ## Opportunity Ranking
 
-| Criteria         | Score |
+| Criteria         | Score (1-5) |
 | ---------------- | ----- |
-| Severity         |       |
-| Frequency        |       |
-| Feasibility      |       |
-| Novelty          |       |
-| Market Potential |       |
-| Total            |       |
+| Severity         |   4   |
+| Frequency        |   5   |
+| Feasibility      |   4   |
+| Novelty          |   4   |
+| Market Potential |   4   |
+| Total            |  21/25  |
 
 ---
 
@@ -187,14 +201,23 @@ User __________ needs a way to __________ because __________.
 
 | Idea | Advantages | Challenges |
 | ---- | ---------- | ---------- |
-|      |            |            |
-|      |            |            |
+| Electric/Shock Wake-up Ring|Forces users to wake up and avoid oversleeping |Safety concerns, user discomfort, regulatory issues  |
+|Focus Monitor (Phone Pickup Tracker) |Helps users understand distraction habits | Only tracks behavior, doesn't actively intervene|
+|PIR/Camera-Based Smart Switch |Saves energy by automatically switching off lights | False detections and installation complexity|
+|Vibration Bracelet |Provides immediate feedback and discourages distractions |Requires wearable hardware and mobile app development |
+
 
 ---
 
 ## Selected Concept
 
+## Vibration Band for Distraction Reduction<br>
+A Bluetooth-enabled wearable ring or bracelet that connects to a smartphone. Users can select distracting applications through a companion app. When a restricted app is used for longer than a specified grace period, the wearable begins vibrating. The vibration intensity gradually increases the longer the user remains on the distracting application, encouraging them to return to their intended task.
+
 Why was this concept chosen?
+
+This concept was chosen because smartphone distraction is a common problem faced by students and professionals on a daily basis. Unlike app blockers that completely restrict access, the vibration bracelet provides a physical reminder while still allowing users to use their phones when necessary. The solution is practical, user-friendly, and combines hardware and software components, making it suitable for implementation within the project's scope. It is also unique compared to traditional screen-time monitoring applications because it uses wearable haptic feedback to influence user behavior in real time.
+
 
 ---
 
