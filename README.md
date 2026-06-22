@@ -225,25 +225,33 @@ This concept was chosen because smartphone distraction is a common problem faced
 
 ## High-Level Description
 
-Explain your solution.
+FocusBand is a wearable anti-distraction device that uses haptic feedback to break the unconscious habit of checking your phone. Unlike apps like Minimalist Phone that rely on willpower, FocusBand creates a physical intervention layer that makes you consciously aware every time you reach for your device.
+The system consists of a wristband containing an ESP32-C3 microcontroller, RC522 RFID module, dual vibration motors, and a 400mAh Li-Po battery. The companion phone app emulates an RFID tag via NFC and monitors screen usage patterns over Bluetooth LE.
+
+## How It Works
+When the band detects your phone nearby (via RFID/NFC proximity sensing), it monitors whether your screen turns on. If interaction is detected for more than your configured threshold (5-10 seconds), the dual vibration motors fire, creating an immediate tactile reminder. You must use your alternate hand to dismiss the alert, forcing a conscious pause in the usage loop.
+
 
 ---
 
 ## Block Diagram
 
-Insert diagram here.
+<img width="1408" height="665" alt="WhatsApp Image 2026-06-22 at 3 36 47 PM" src="https://github.com/user-attachments/assets/03d67278-6ac9-4a46-a922-2ad6e809d8b6" />
+
 
 ---
 
 ## Inputs
 
-List sensors, user inputs, data sources.
+Bluetooth data from smartphone<br>
+Phone NFC emunated RFID card/tag
 
 ---
 
 ## Outputs
 
-List displays, actuators, software outputs.
+Vibration alerts<br>
+User notification through wearable response
 
 ---
 
@@ -253,8 +261,12 @@ List displays, actuators, software outputs.
 
 | Component | Purpose |
 | --------- | ------- |
-|           |         |
-|           |         |
+| ESP32-C3 Super Mini  |Main microcontroller that manages Bluetooth communication, processes commands from the mobile app, and controls the vibration motors.|
+|400mAh Li-Po Battery (3.7V) |Provides portable power to the wearable device. |
+| TP4056 Type-C Charging Module |Charges the Li-Po battery safely and allows convenient USB Type-C charging.| 
+| ERM Coin Vibration Motors (2x)| Generates haptic feedback; vibration intensity can be increased to alert the user when using distracting applications.|
+| RC522 RFID Module| Used for user authentication, attendance logging, device activation, or future expansion features (if included in the design).|
+| Bluetooth (Built into ESP32-C3)| Enables wireless communication between the wearable device and the smartphone application.|
 
 ---
 
@@ -262,8 +274,7 @@ List displays, actuators, software outputs.
 
 | Tool | Purpose |
 | ---- | ------- |
-|      |         |
-|      |         |
+|Arduino IDE  |Used to write, compile, upload, and debug the firmware for the ESP32-C3 microcontroller. It is used to implement Bluetooth communication, motor control, battery management, and overall device functionality |
 
 ---
 
