@@ -66,11 +66,11 @@ Where did you conduct your observations?
 What are users doing?
 
 Studying, working, attending online classes, reading, or focusing on tasks.
-
+<br>
 Frequently checking their phones during these activities.
-
+<br>
 Switching between productive apps and distracting apps (social media, games, short-video platforms).
-
+<br>
 Attempting to maintain focus but getting distracted by habitual phone usage.
 
 ### Environment
@@ -78,34 +78,46 @@ Attempting to maintain focus but getting distracted by habitual phone usage.
 What conditions affect them?
 
 Presence of phone notifications and easy access to distracting apps.
-
+<br>
 Long work or study sessions that lead to reduced concentration.
-
+<br>
 Situations where some phone usage is necessary (calls, emails, messages) while distractions should be avoided.
 
 ### Interactions
 
 Who or what are they interacting with?
 
+The anti-distraction wristband.
+<br>
+The companion mobile application used to configure restrictions.
+
 
 ### Objects
 
 What tools or products are used?
+
+Bluetooth-enabled wristband.
+<br>
+Companion mobile application.
+<br>
+Vibration motor and microcontroller (e.g., ESP32-C3).
+<br>
+Productivity and distracting applications
 
 ### Users
 
 Who are the primary users?
 
 Students preparing for exams or attending classes.
-
+<br>
 College students working on assignments and projects.
-
+<br>
 Professionals who need to stay focused while working.
-
+<br>
 Individuals trying to reduce screen time and social media addiction.
-
+<br>
 Anyone seeking better productivity and concentration habits.
-
+<br>
 Non invasive productivity monitoring for corporate enviroments.
 
 ---
