@@ -114,17 +114,10 @@ Non invasive productivity monitoring for corporate enviroments.
 
 | Observation                         | Evidence                          | Pain Point                             |
 | -----------                         | --------                          | ----------                             |
-| Users frequently open social media  |During observation/interviews,     | Loss of focus and reduced productivity.|
-|apps while studying or working.      | users reported checking Instagram,|                                        |
-|                                     |YouTube, or WhatsApp repeatedly    |                                        |
-|Existing app blockers are            |Users stated they uninstall        | Current solutions are easy to ignore.  |
-|often disabled or bypassed.          |blockersor ignore notifications.   |                                        |
-|Many users use there phone for both  |Users needs phone for calls,emails,| Complete blocking is impractical.      |
-|productive and distracting tasks.    |notes and study materials  .       |                                        |
-|Users often realize they are         |Users reported just checking for a |Lack of immediate awareness of          |
-|distracted only after spending       |minute and ending up scrolling for |distraction.                            |
-|significant time on an app.          |a much longer time .               |                                        |
-
+|Users frequently open social media apps while studying or working. | During observation/interviews, users reported checking Instagram, YouTube, or WhatsApp repeatedly. | Loss of focus and reduced productivity.| 
+|Existing app blockers are often disabled or bypassed. |Users stated they uninstall blockers or ignore notifications.| Current solutions are easy to ignore.|
+|Many users use phones for both productive and distracting tasks.|Users need phones for emails, calls, notes, and study material.|Complete blocking is impractical.|
+|Users often realize they are distracted only after spending significant time on an app. |Users reported "just checking for a minute" and ending up scrolling for much longer. |Lack of immediate awareness of distraction.|
 ---
 
 # 3. User Research
