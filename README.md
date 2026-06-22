@@ -104,7 +104,9 @@ Professionals who need to stay focused while working.
 
 Individuals trying to reduce screen time and social media addiction.
 
-Anyone seeking better productivity and concentration habits
+Anyone seeking better productivity and concentration habits.
+
+Non invasive productivity monitoring for corporate enviroments.
 
 ---
 
